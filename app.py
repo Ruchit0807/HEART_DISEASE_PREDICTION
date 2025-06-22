@@ -6,7 +6,7 @@ model = joblib.load('KNN_heart.pkl')
 scaler = joblib.load('scaler.pkl')
 expected_columns = joblib.load('columns.pkl')
 
-st.title("Heart Disease Prediction App by - Ruchit")
+st.title("💓 Heart Disease Prediction App by - Ruchit")
 st.markdown("This app predicts the chances of getting Heart Attack on the basis of information provided by you.")
 
 age = st.slider("Age", 18, 100, 40)
