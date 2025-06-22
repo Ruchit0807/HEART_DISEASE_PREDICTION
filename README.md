@@ -1,5 +1,6 @@
 # 💓 Heart Disease Prediction App
-## by Ruchit Sonawane
+
+## 🔗 APP LINK - https://heartdiseaseprediction-byruchit.streamlit.app/
 
 🔍 "Know your heart before it breaks."
 
